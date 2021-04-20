@@ -1,0 +1,16 @@
+C:\Users\KLITEGROUP\Desktop\SBSC\FirstAssignment\PrimeNumber\bin\Debug\net5.0\PrimeNumber.exe
+C:\Users\KLITEGROUP\Desktop\SBSC\FirstAssignment\PrimeNumber\bin\Debug\net5.0\PrimeNumber.deps.json
+C:\Users\KLITEGROUP\Desktop\SBSC\FirstAssignment\PrimeNumber\bin\Debug\net5.0\PrimeNumber.runtimeconfig.json
+C:\Users\KLITEGROUP\Desktop\SBSC\FirstAssignment\PrimeNumber\bin\Debug\net5.0\PrimeNumber.runtimeconfig.dev.json
+C:\Users\KLITEGROUP\Desktop\SBSC\FirstAssignment\PrimeNumber\bin\Debug\net5.0\PrimeNumber.dll
+C:\Users\KLITEGROUP\Desktop\SBSC\FirstAssignment\PrimeNumber\bin\Debug\net5.0\ref\PrimeNumber.dll
+C:\Users\KLITEGROUP\Desktop\SBSC\FirstAssignment\PrimeNumber\bin\Debug\net5.0\PrimeNumber.pdb
+C:\Users\KLITEGROUP\Desktop\SBSC\FirstAssignment\PrimeNumber\obj\Debug\net5.0\PrimeNumber.csprojAssemblyReference.cache
+C:\Users\KLITEGROUP\Desktop\SBSC\FirstAssignment\PrimeNumber\obj\Debug\net5.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KLITEGROUP\Desktop\SBSC\FirstAssignment\PrimeNumber\obj\Debug\net5.0\PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\KLITEGROUP\Desktop\SBSC\FirstAssignment\PrimeNumber\obj\Debug\net5.0\PrimeNumber.AssemblyInfo.cs
+C:\Users\KLITEGROUP\Desktop\SBSC\FirstAssignment\PrimeNumber\obj\Debug\net5.0\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\KLITEGROUP\Desktop\SBSC\FirstAssignment\PrimeNumber\obj\Debug\net5.0\PrimeNumber.dll
+C:\Users\KLITEGROUP\Desktop\SBSC\FirstAssignment\PrimeNumber\obj\Debug\net5.0\ref\PrimeNumber.dll
+C:\Users\KLITEGROUP\Desktop\SBSC\FirstAssignment\PrimeNumber\obj\Debug\net5.0\PrimeNumber.pdb
+C:\Users\KLITEGROUP\Desktop\SBSC\FirstAssignment\PrimeNumber\obj\Debug\net5.0\PrimeNumber.genruntimeconfig.cache
