@@ -29,6 +29,7 @@ namespace PrimeNumber
             else if (number % 2 == 0)
                 return number == 2;
 
+            // helping me to deal with old numbers that are not prime...
             long N = (long) (Math.Sqrt(number) + 0.5);
 
             for (int i = 3; i <= N; i += 2)
